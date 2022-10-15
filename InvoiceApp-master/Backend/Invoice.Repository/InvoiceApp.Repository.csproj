@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InvoiceApp.EntityFramework\InvoiceApp.EntityFramework.csproj" />
+    <ProjectReference Include="..\InvoiceApp.Model\InvoiceApp.Model.csproj" />
+  </ItemGroup>
+
+</Project>

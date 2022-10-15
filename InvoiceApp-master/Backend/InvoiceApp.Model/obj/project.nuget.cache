@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U+RpsbMbHbGD7vneXrcmFbG7pKsrhSlX1LM0hH9DltzoZtv/s4Xc3uKh1biTckgg/bbmc5mE8jlu2FU6I7L/MA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\InvoiceApp\\InvoiceApp-master\\Backend\\InvoiceApp.Model\\InvoiceApp.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nora Elbeshry\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nora Elbeshry\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nora Elbeshry\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
